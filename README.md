@@ -71,6 +71,6 @@ Through this experience, I developed a strong foundation in **HR metrics, visual
 If you have questions or want to collaborate, feel free to reach out:
 
 **[Trisha Paul]**  
-**Email:** trishapaul2502.email@example.com  
+**Email:** trishapaul2502@gmail.com 
 
 
