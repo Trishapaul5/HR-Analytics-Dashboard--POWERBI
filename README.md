@@ -55,7 +55,6 @@ This Power BI dashboard provides HR teams with actionable insights into:
 ├── HRDataset.csv                  # Source data
 ├── HR_Analytics_Dashboard.pbix    # Dashboard file
 ├── images/                        # Screenshots
-├── PROJECT_REPORT.md              # Detailed documentation
 └── README.md                      # This file
 ```
 
