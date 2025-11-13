@@ -62,8 +62,7 @@ This Power BI dashboard provides HR teams with actionable insights into:
 ## 📬 Contact
 
 **Trisha Paul**  
-📧 trishapaul2502@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/trishapaul)  
+📧 trishapaul2502@gmail.com 
 🐙 [GitHub](https://github.com/trishapaul)
 
 ## 📄 License
